@@ -91,6 +91,7 @@
     <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40"/>
     </a>
+    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RITWIZSINGH&show_icons=true&locale=en&layout=compact&theme=radical" alt="RITWIZSINGH" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RITWIZSINGH&show_icons=true&locale=en&theme=radical" alt="RITWIZSINGH" /></p>
