@@ -6,7 +6,7 @@
 <img src="https://komarev.com/ghpvc/?username=RITWIZSINGH&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="RITWIZSINGH" /> 
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RITWIZSINGH&theme=radical&column=6&margin-w=15&margin-h=15" alt="RITWIZSINGH" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RITWIZSINGH&theme=radical&margin-w=5&margin-h=5" alt="RITWIZSINGH" /></a> </p>
 
 - 🔭 I’m currently working on **Flutter and Firebase**
 
