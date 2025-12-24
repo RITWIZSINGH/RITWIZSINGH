@@ -8,21 +8,22 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RITWIZSINGH&theme=radical&margin-w=5&margin-h=5" alt="RITWIZSINGH" /></a> </p>
 
-- 🔭 I’m currently working on **Flutter and Firebase**
+- 🔭 I'm currently working on **Flutter and Firebase**
   
   
-- 🌱 I’m currently learning **GoLang**
+- 🌱 I'm currently learning **GoLang**
 
 
 
 
-- 👯 I’m looking to collaborate on **App Dev Projects**
+- 👯 I'm looking to collaborate on **App Dev Projects**
 
 - 📫 How to reach me **ritwizsingh007@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ritwiz-singh-61151525a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivansh-singh-736521289" height="30" width="40" /></a>
+<a href="https://x.com/RitwizSingh07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="RitwizSingh07" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ritwizsinghrajpoot?igsh=eG93cjA2dXoyZ2p6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivanshsingh4378" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/RITWIZSINGH87/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="singhshivansh12may" height="30" width="40" /></a>
 </p>
@@ -42,6 +43,24 @@
     </a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+    </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+    </a>
+    <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/>
+    </a>
+    <a href="https://nuxt.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxt" width="40" height="40"/>
+    </a>
+    <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+    </a>
+    <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+    </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40"/>
     </a>
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
@@ -107,6 +126,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RITWIZSINGH&theme=radical" alt="RITWIZSINGH" />
   
 <img  src="https://github-readme-activity-graph.vercel.app/graph?username=RITWIZSINGH&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" /></p>
-
-
-
