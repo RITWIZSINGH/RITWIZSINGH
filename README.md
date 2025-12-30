@@ -69,7 +69,18 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 </p>
 
-<!-- GitHub Stats - Using your self-hosted version with improved settings -->
+<!-- GitHub Stats Section -->
+<h3 align="left">📊 GitHub Statistics:</h3>
+
+<!-- Manual accurate stats -->
+<p align="left">
+  <img src="https://img.shields.io/badge/Total_Commits-1500+-blue?style=for-the-badge&logo=github" alt="commits"/>
+  <img src="https://img.shields.io/badge/Pull_Requests-80+-green?style=for-the-badge&logo=git" alt="pull requests"/>
+  <img src="https://img.shields.io/badge/Repositories-50+-orange?style=for-the-badge&logo=github" alt="repositories"/>
+  <img src="https://img.shields.io/badge/Years_Active-3+-red?style=for-the-badge&logo=git" alt="years active"/>
+</p>
+
+<!-- Automated stats cards -->
 <p>
   <img align="left"
        src="https://github-readme-stats-sigma-five-68.vercel.app/api/top-langs?username=RITWIZSINGH&layout=compact&theme=radical&cache_seconds=1800"
