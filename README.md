@@ -69,16 +69,16 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 </p>
 
-<!-- GitHub Stats - Using your self-hosted version -->
+<!-- GitHub Stats - Using your self-hosted version with improved settings -->
 <p>
   <img align="left"
-       src="https://github-readme-stats-sigma-five-68.vercel.app/api/top-langs?username=RITWIZSINGH&layout=compact&theme=radical&cache_seconds=86400"
+       src="https://github-readme-stats-sigma-five-68.vercel.app/api/top-langs?username=RITWIZSINGH&layout=compact&theme=radical&cache_seconds=1800"
        alt="RITWIZSINGH" />
 </p>
 
 <p>&nbsp;
   <img align="center"
-       src="https://github-readme-stats-sigma-five-68.vercel.app/api?username=RITWIZSINGH&show_icons=true&theme=radical&cache_seconds=86400"
+       src="https://github-readme-stats-sigma-five-68.vercel.app/api?username=RITWIZSINGH&show_icons=true&theme=radical&include_all_commits=true&count_private=true&show_all_contributions=true&cache_seconds=1800"
        alt="RITWIZSINGH" />
 </p>
 
