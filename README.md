@@ -7,6 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=RITWIZSINGH&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="RITWIZSINGH" />
 </p>
 
+<!-- GitHub Profile Trophy - Using official endpoint -->
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=RITWIZSINGH&theme=radical&margin-w=5&margin-h=5" alt="RITWIZSINGH" />
@@ -68,7 +69,7 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 </p>
 
-<!-- ✅ YOUR SELF-HOSTED GitHub Readme Stats (Vercel) -->
+<!-- GitHub Stats - Using your self-hosted version -->
 <p>
   <img align="left"
        src="https://github-readme-stats-sigma-five-68.vercel.app/api/top-langs?username=RITWIZSINGH&layout=compact&theme=radical&cache_seconds=86400"
@@ -81,15 +82,15 @@
        alt="RITWIZSINGH" />
 </p>
 
+<!-- Streak Stats - Using official endpoint for reliability -->
 <p>
-  <!-- ✅ Streak (switched from demolab to a more GitHub-camo-friendly Vercel host) -->
   <img align="center"
-       src="https://github-readme-streak-stats.vercel.app?user=RITWIZSINGH&theme=radical"
+       src="https://streak-stats.demolab.com/?user=RITWIZSINGH&theme=radical"
        alt="RITWIZSINGH" />
 </p>
 
+<!-- Activity Graph -->
 <p>
-  <!-- ✅ Widely used Activity Graph endpoint -->
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=RITWIZSINGH&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false"
     alt="RITWIZSINGH" />
